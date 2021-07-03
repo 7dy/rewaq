@@ -25,7 +25,7 @@ while True:
         'birth_year': '1998',
         'gender': 'male',
         'email': f'{email}',
-        'username': f'{name}'
+        'username': f'{name}' '%D0%B5r'
         }
 
     headers = {
